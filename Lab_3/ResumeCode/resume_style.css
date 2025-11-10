@@ -1,0 +1,25 @@
+body {
+	background-color: mintcream;
+}
+
+h1 {
+	color: maroon;
+	text-align: center;
+}
+h2 {
+	font-weight: bold;
+	color: forestgreen;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	font-weight: normal;
+
+}
+
+ul {
+	list-style-position: inside;
+	text-align: center;
+	font-weight: normal;
+}
